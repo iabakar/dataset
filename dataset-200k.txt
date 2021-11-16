@@ -9,34 +9,37 @@ The College Board's average tuition cost of college is $5836 per year
 
 
 
-College	Tuition			Number of Students
+college/university Name:       college Tuition	        Number of Students
 
-Central Washington University	$4392	10,200
+stony brook university  	15605                    26256
 
-University of Washington	$5985	25,469
+suny at binghamton		17424                    17768
 
-Washington State University	$5888	18,432
+suny at albany			16769                   17944
 
-Western Washington University	$4356	13,000
+university at buffalo		17264                   31503
+cuny hunter college		3957                    23202
+John Jay College                3814                    15394
 
-Evergreen State University	$4590	4400
+suny queens college     	4471                    19746
+cuny city college 	        3397                    16043
 
-Eastern Washington University	$5904	10,000
+cuny bernard m baruch college 	3931                    18029
 
-Peninsula College		$3639	10,120
+united state military academy 	0                       4589
 
-University of Oregon		$6174	20,394
+suny at purchase college 	18104                   4234
 
-Portland State University	$5208	24,284
+suny college at brockport        14747                  8287
 
-Oregon State University		$5604	19,362
+fashion institute of technology	 8623                   8767
 
-Southern Oregon University	$5233	5000
+suny at geneseo                 17341                   5612
 
-Eastern Oregon University	$4500	3000
+suny college at buffalo         12230                   9118
 
-Western Oregon University	$5763	4500
- 
-University of Idaho		$4410	11,739
+cuny brooklyn college	        3805                    18161
 
-Idaho State University		$4400	13,000
+farmingdale state college 	7481                    9979
+
+suny college at oneonta         15688                   6543
