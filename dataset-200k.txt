@@ -1,0 +1,42 @@
+#################################################
+
+topic is the average tuition cost of a 4-yr. public college.
+
+The College Board's average tuition cost of college is $5836 per year
+
+################################################
+
+
+
+
+College	Tuition			Number of Students
+
+Central Washington University	$4392	10,200
+
+University of Washington	$5985	25,469
+
+Washington State University	$5888	18,432
+
+Western Washington University	$4356	13,000
+
+Evergreen State University	$4590	4400
+
+Eastern Washington University	$5904	10,000
+
+Peninsula College		$3639	10,120
+
+University of Oregon		$6174	20,394
+
+Portland State University	$5208	24,284
+
+Oregon State University		$5604	19,362
+
+Southern Oregon University	$5233	5000
+
+Eastern Oregon University	$4500	3000
+
+Western Oregon University	$5763	4500
+ 
+University of Idaho		$4410	11,739
+
+Idaho State University		$4400	13,000
