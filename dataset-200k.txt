@@ -6,7 +6,8 @@ The College Board's average tuition cost of college is $5836 per year
 
 ################################################
 
-
+sources: https://www.suny.edu/media/suny/content-assets/documents/financial-aid/suny-financial-aid.pdf
+https://www.collegesimply.com/colleges/new-york/public-four-year-colleges/
 
 
 college/university Name:       college Tuition	        Number of Students
