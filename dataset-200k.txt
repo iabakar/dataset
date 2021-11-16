@@ -1,8 +1,8 @@
 #################################################
 
-topic is the average tuition cost of a 4-yr. public college.
+topic is the average tuition cost of a 4-yr. suny public college.
 
-The College Board's average tuition cost of college is $5836 per year
+The suny's average tuition cost of college is $23,350 per year
 
 ################################################
 
